@@ -12,7 +12,7 @@
 
 Clone the repository:
 
-git clone https://github.com/developer25tom/LifeManager.git
+git clone https://github.com/csharpbytom/LifeManager.git
 
 Navigate to the project folder:
 
